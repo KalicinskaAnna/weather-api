@@ -10,7 +10,7 @@ const humidity = document.querySelector('.humidity')
 const API_LINK = 'https://api.openweathermap.org/data/2.5/weather?lat='
 const API_KEY = '1a011afe4a80d4385867a98f06b18ea2'
 const API_UNITS = '&units=metric'
-const API_url = 'http://api.openweathermap.org/geo/1.0/direct?q='
+const API_url = 'https://api.openweathermap.org/geo/1.0/direct?q='
 
 let lat
 let lon
